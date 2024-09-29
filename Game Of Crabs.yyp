@@ -35,6 +35,7 @@
   "name":"Game Of Crabs",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Prototype_Character","path":"sprites/Prototype_Character/Prototype_Character.yy",},},
     {"id":{"name":"spGrass","path":"sprites/spGrass/spGrass.yy",},},
     {"id":{"name":"tsGrass","path":"tilesets/tsGrass/tsGrass.yy",},},
   ],
