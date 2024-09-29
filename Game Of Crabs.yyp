@@ -35,6 +35,8 @@
   "name":"Game Of Crabs",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spGrass","path":"sprites/spGrass/spGrass.yy",},},
+    {"id":{"name":"tsGrass","path":"tilesets/tsGrass/tsGrass.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
