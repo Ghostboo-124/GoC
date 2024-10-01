@@ -3,6 +3,7 @@ var activeAnimation;
 var sequenceLayer;
 var activeSequence;
 
+camera = camera_create_view(0, 0, 640, 480, 0, oPlayer, 1, 1, 32, 32);
 
 Enable = function () {
 	enabled = true;
