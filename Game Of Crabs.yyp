@@ -34,9 +34,8 @@
   },
   "name":"Game Of Crabs",
   "resources":[
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"oPlayerHitbox","path":"objects/oPlayerHitbox/oPlayerHitbox.yy",},},
-    {"id":{"name":"oRoom","path":"objects/oRoom/oRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"seqNuggetIdle","path":"sequences/seqNuggetIdle/seqNuggetIdle.yy",},},
     {"id":{"name":"spExtraTiles","path":"sprites/spExtraTiles/spExtraTiles.yy",},},
