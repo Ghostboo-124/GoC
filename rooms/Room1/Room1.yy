@@ -63,7 +63,7 @@
           52,-57,-2147483648,4,33,34,35,36,-37,-2147483648,4,33,34,35,36,-14,-2147483648,4,57,58,59,60,-57,-2147483648,
           4,41,42,43,44,-37,-2147483648,4,41,42,43,44,-75,-2147483648,4,49,50,51,52,-37,-2147483648,4,49,50,51,
           52,-75,-2147483648,4,57,58,59,60,-37,-2147483648,4,57,58,59,60,-482,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"tsExtraTiles","path":"tilesets/tsExtraTiles/tsExtraTiles.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":null,"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Grass","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Grass","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
           -1958,1,1,5,-7,29,1,9,-110,1,2,5,39,-7,0,1,41,-5,29,1,9,-101,1,4,5,29,29,39,-14,0,3,41,29,9,-99,1,1,
           25,-19,0,2,41,9,-97,1,2,5,39,-20,0,2,41,9,-96,1,1,25,-22,0,2,41,9,-95,1,1,25,-23,0,2,41,9,-94,1,1,25,

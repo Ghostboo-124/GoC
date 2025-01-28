@@ -1,7 +1,7 @@
-kLeft = keyboard_check(ord("A"));
-kRight = keyboard_check(ord("D"));
-kUp = keyboard_check(ord("W"));
-kDown = keyboard_check(ord("S"));
+kLeft = keyboard_check(ord("A")) or keyboard_check(vk_left);
+kRight = keyboard_check(ord("D")) or keyboard_check(vk_right);
+kUp = keyboard_check(ord("W")) or keyboard_check(vk_up);
+kDown = keyboard_check(ord("S")) or keyboard_check(vk_down);
 
 // Calculate movement
 var moveH = kRight - kLeft;
