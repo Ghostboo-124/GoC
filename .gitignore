@@ -61,5 +61,5 @@ Temporary Items
 # My Custom
 .vscode/*
 venv/*
-output/*
+output/*/
 *.code-workspace
