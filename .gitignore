@@ -59,7 +59,7 @@ Temporary Items
 *.old
 
 # My Custom
-.vscode/*
-venv/*
-output/*
+.vscode
+venv
+output
 *.code-workspace
