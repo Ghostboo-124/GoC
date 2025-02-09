@@ -1,3 +1,5 @@
+depth = -y
+
 if (follow != noone)
 {
 	xTo = follow.x;

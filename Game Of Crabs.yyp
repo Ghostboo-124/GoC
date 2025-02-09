@@ -37,7 +37,8 @@
   "resources":[
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
+    {"id":{"name":"TestMap","path":"rooms/TestMap/TestMap.yy",},},
     {"id":{"name":"seqNuggetIdle","path":"sequences/seqNuggetIdle/seqNuggetIdle.yy",},},
     {"id":{"name":"spFlower1","path":"sprites/spFlower1/spFlower1.yy",},},
     {"id":{"name":"spFlower2","path":"sprites/spFlower2/spFlower2.yy",},},
@@ -50,7 +51,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"TestMap","path":"rooms/TestMap/TestMap.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
